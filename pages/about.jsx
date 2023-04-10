@@ -56,7 +56,7 @@ const SharedButton = styled.button`
 export default function About() {
   return (
     <AboutSection>
-      <HeaderIMG src='/../assets/camping.png' />
+      <HeaderIMG src='../assets/images/camping.png' />
       <ContextWrapper>
         <Title>Don’t squeeze in a sedan when you could relax in a van.</Title>
         <Body>
